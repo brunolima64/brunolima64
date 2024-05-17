@@ -1,14 +1,11 @@
 ### Olá! eu sou o bruno lima 
 <hr />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Passionate about creating interactive and dynamic user interfaces.
+- 🌱 I’m currently learning about performance optimization in React applications and new JavaScript features.
+- 💬 Ask me about React, JavaScript, CSS, or anything related to web development!
+- 📫 How to reach me: You can send me a message here on GitHub or find me on LinkedIn ( link below )
+- ⚡ Fun fact: I love reading books and playing games in my spare time!
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=brunolima64&show_icons=true&theme=tokyonight" height="180"  />
@@ -28,7 +25,7 @@
   ##
  
 <div> 
-  <a href="https://discord.gg/goatgg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"  ></a> 
-  <a href="mailto:brunnolima64@gmail.com" target="_blank" > <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"  ></a>
-  <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  ></a> 
+  <a href="https://discord.gg/goatgg" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" ></a> 
+  <a href="mailto:brunnolima64@gmail.com" target="_blank" > <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" ></a>
+  <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a> 
 </div>
